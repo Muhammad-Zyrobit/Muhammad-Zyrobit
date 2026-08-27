@@ -48,7 +48,7 @@ concurrency patterns. Feel free to reach out at seedat.m@icloud.com.
 <tr>
 <td width="50%">
 
-**[Chat Server](https://github.com/YOUR-USERNAME/chat-server)**
+**[Chat Server](https://github.com/Muhammad-Zyrobit/chat-server)**
 Multi-client TLS chat server on raw sockets, with a length-prefixed wire
 protocol, thread-per-connection concurrency, and integration tests that
 spin up real TLS sockets across threads.
@@ -57,7 +57,7 @@ spin up real TLS sockets across threads.
 </td>
 <td width="50%">
 
-**[URL Shortener](https://github.com/YOUR-USERNAME/url-shortener)**
+**[URL Shortener](https://github.com/Muhammad-Zyrobit/url-shortener)**
 A real implementation of the classic system design question, with base62
 encoding, collision-safe code generation, expiration, click analytics,
 and token bucket rate limiting.
@@ -68,7 +68,7 @@ and token bucket rate limiting.
 <tr>
 <td width="50%">
 
-**[Brick Breaker](https://github.com/YOUR-USERNAME/brick-breaker)**
+**[Brick Breaker](https://github.com/Muhammad-Zyrobit/brick-breaker)**
 A Breakout clone built with pygame, with JSON-defined levels, power-ups,
 and persisted high scores. Game logic is fully decoupled from rendering,
 so 57 tests run with zero display.
@@ -77,7 +77,7 @@ so 57 tests run with zero display.
 </td>
 <td width="50%">
 
-**[Bandwidth Monitor](https://github.com/YOUR-USERNAME/bandwidth-monitor)**
+**[Bandwidth Monitor](https://github.com/Muhammad-Zyrobit/bandwidth-monitor)**
 Cross-platform network usage tracker with SQLite history and a Flask
 dashboard, replacing a fragile shell-out-and-parse approach with proper
 counters and tested delta logic.
@@ -88,7 +88,7 @@ counters and tested delta logic.
 <tr>
 <td width="50%">
 
-**[Cipher Toolkit](https://github.com/YOUR-USERNAME/cipher-toolkit)**
+**[Cipher Toolkit](https://github.com/Muhammad-Zyrobit/cipher-toolkit)**
 Caesar, Vigenere, Atbash, and ROT13 behind one interface, plus a working
 frequency analysis cracker that breaks Caesar ciphers without knowing the
 shift.
@@ -97,7 +97,7 @@ shift.
 </td>
 <td width="50%">
 
-**[Sorting Visualizer](https://github.com/YOUR-USERNAME/sorting-visualizer)**
+**[Sorting Visualizer](https://github.com/Muhammad-Zyrobit/sorting-visualizer)**
 Interactive Tkinter visualizer for five sorting algorithms, built around
 UI-independent generator functions so the algorithms are unit tested with
 zero GUI dependency.

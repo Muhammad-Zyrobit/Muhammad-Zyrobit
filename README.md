@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C72B0,100:2ECC71&height=180&section=header&text=Hi,%20I'm%20Your%20Muhammad&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C72B0,100:2ECC71&height=180&section=header&text=Hi,%20I'm%20Muhammad%20Seedat&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">Software Engineer</h3>

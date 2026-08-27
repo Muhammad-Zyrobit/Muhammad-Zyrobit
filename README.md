@@ -117,11 +117,6 @@ it was built from, and what changed. Not just a feature list.
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Zyrobit&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zyrobit&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Zyrobit&hide_border=true" />
 </p>
 

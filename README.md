@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C72B0,100:2ECC71&height=180&section=header&text=Hi,%20I'm%20Your%20Name&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C72B0,100:2ECC71&height=180&section=header&text=Hi,%20I'm%20Your%20Muhammad&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">Software Engineer</h3>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=4C72B0&label=Profile+views" />
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Zyrobit&color=4C72B0&label=Profile+views" />
 </p>
 
 ## About Me 
@@ -23,7 +23,7 @@ into why something breaks, not just shipping a fix.
 
 Currently building out my project portfolio with a focus on testable,
 well-documented systems. Learning system design fundamentals and
-concurrency patterns. Feel free to reach out at your.email@example.com.
+concurrency patterns. Feel free to reach out at seedat.m@icloud.com.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C72B0,100:2ECC71&height=3&section=header" />
@@ -117,12 +117,12 @@ it was built from, and what changed. Not just a feature list.
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Zyrobit&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zyrobit&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Zyrobit&hide_border=true" />
 </p>
 
 <p align="center">

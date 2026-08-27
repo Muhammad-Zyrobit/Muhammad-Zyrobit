@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C72B0,100:2ECC71&height=180&section=header&text=Hi,%20I'm%20Your%20Name&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Software Engineer, open to entry-level SWE opportunities</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-seedat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=4C72B0&label=Profile+views" />
 </p>
 
-## About Me
+## About Me 
 
 I'm a software engineer focused on writing clean, well-tested code. Every
 project below started as a rough script and was rebuilt with real

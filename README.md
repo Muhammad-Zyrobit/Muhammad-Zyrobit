@@ -150,8 +150,15 @@ zero GUI dependency.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Zyrobit&theme=react&hide_border=true&background=0D1117&ring=2ECC71&fire=4C72B0&currStreakLabel=2ECC71" />
 </p>
 
+<!--
+  Contribution snake animation — requires a one-time GitHub Action setup
+  in a repo named exactly "Muhammad-Zyrobit/Muhammad-Zyrobit" (the special
+  profile-README repo). Once that workflow runs once, this image renders
+  automatically and updates daily. Ask Claude for the workflow file if you
+  haven't set it up yet.
+-->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Zyrobit&theme=react-dark&hide_border=true&bg_color=0D1117&color=2ECC71&line=4C72B0&point=ffffff" />
+  <img src="https://raw.githubusercontent.com/Muhammad-Zyrobit/Muhammad-Zyrobit/output/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center">

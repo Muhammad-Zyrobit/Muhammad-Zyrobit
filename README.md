@@ -20,7 +20,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C72B0,100:2ECC71&height=3&section=header" />
 </p>
 
-## 👋 About Me
+##  About Me
 
 I'm a software engineer focused on writing clean, well-tested code. Every
 project below started as a rough script and was rebuilt with real
@@ -44,11 +44,8 @@ while (true) {
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C72B0,100:2ECC71&height=3&section=header" />
 </p>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,sqlite,git,py,bash&theme=dark" />
-</p>
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -61,13 +58,13 @@ while (true) {
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C72B0,100:2ECC71&height=3&section=header" />
 </p>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 💬 [Chat Server](https://github.com/Muhammad-Zyrobit/chat-server)
+###  [Chat Server](https://github.com/Muhammad-Zyrobit/chat-server)
 Multi-client TLS chat server on raw sockets, with a length-prefixed wire
 protocol, thread-per-connection concurrency, and integration tests that
 spin up real TLS sockets across threads.
@@ -77,7 +74,7 @@ spin up real TLS sockets across threads.
 </td>
 <td width="50%">
 
-### 🔗 [URL Shortener](https://github.com/Muhammad-Zyrobit/url-shortener)
+###  [URL Shortener](https://github.com/Muhammad-Zyrobit/url-shortener)
 A real implementation of the classic system design question, with base62
 encoding, collision-safe code generation, expiration, click analytics,
 and token bucket rate limiting.
@@ -89,7 +86,7 @@ and token bucket rate limiting.
 <tr>
 <td width="50%">
 
-### 🧱 [Brick Breaker](https://github.com/Muhammad-Zyrobit/brick-breaker)
+###  [Brick Breaker](https://github.com/Muhammad-Zyrobit/brick-breaker)
 A Breakout clone built with pygame, with JSON-defined levels, power-ups,
 and persisted high scores. Game logic is fully decoupled from rendering,
 so 57 tests run with zero display.
@@ -99,7 +96,7 @@ so 57 tests run with zero display.
 </td>
 <td width="50%">
 
-### 📡 [Bandwidth Monitor](https://github.com/Muhammad-Zyrobit/bandwidth-monitor)
+###  [Bandwidth Monitor](https://github.com/Muhammad-Zyrobit/bandwidth-monitor)
 Cross-platform network usage tracker with SQLite history and a Flask
 dashboard, replacing a fragile shell-out-and-parse approach with proper
 counters and tested delta logic.
@@ -111,7 +108,7 @@ counters and tested delta logic.
 <tr>
 <td width="50%">
 
-### 🔐 [Cipher Toolkit](https://github.com/Muhammad-Zyrobit/cipher-toolkit)
+###  [Cipher Toolkit](https://github.com/Muhammad-Zyrobit/cipher-toolkit)
 Caesar, Vigenere, Atbash, and ROT13 behind one interface, plus a working
 frequency analysis cracker that breaks Caesar ciphers without knowing the
 shift.
@@ -121,7 +118,7 @@ shift.
 </td>
 <td width="50%">
 
-### 📊 [Sorting Visualizer](https://github.com/Muhammad-Zyrobit/sorting-visualizer)
+###  [Sorting Visualizer](https://github.com/Muhammad-Zyrobit/sorting-visualizer)
 Interactive Tkinter visualizer for five sorting algorithms, built around
 UI-independent generator functions so the algorithms are unit tested with
 zero GUI dependency.
@@ -139,7 +136,7 @@ zero GUI dependency.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C72B0,100:2ECC71&height=3&section=header" />
 </p>
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-eta-fawn-26.vercel.app/api?username=Muhammad-Zyrobit&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2ECC71&icon_color=4C72B0" />
@@ -165,7 +162,7 @@ zero GUI dependency.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C72B0,100:2ECC71&height=3&section=header" />
 </p>
 
-### 💭 Random Dev Quote
+###  Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />

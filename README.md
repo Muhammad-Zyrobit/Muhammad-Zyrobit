@@ -142,8 +142,8 @@ zero GUI dependency.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Zyrobit&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2ECC71&icon_color=4C72B0" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zyrobit&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2ECC71" />
+  <img height="165" src="https://github-readme-stats-eight-pied.vercel.app/api?username=Muhammad-Zyrobit&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2ECC71&icon_color=4C72B0" />
+  <img height="165" src="https://github-readme-stats-eight-pied.vercel.app/api/top-langs/?username=Muhammad-Zyrobit&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2ECC71" />
 </p>
 
 <p align="center">
